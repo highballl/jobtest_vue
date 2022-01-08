@@ -1,24 +1,5 @@
 # jobtest_vue
 
-## Project setup
-```
-npm install
-```
+`22.01.08.SAT - ing`
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 2021년 7-8월에 React로 개발한 직업심리검사 웹 서비스를 Vue로 다시 이식하는 프로젝트입니다.
