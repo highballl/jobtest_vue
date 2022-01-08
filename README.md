@@ -1,4 +1,24 @@
 # jobtest_vue
-직업심리검사 웹 서비스 | 이전에 React로 구현한 내용을 다시 Vue로 이식하는 프로젝트
 
-`22.01.08.SAT - 진행중`
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
