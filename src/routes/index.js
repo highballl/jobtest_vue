@@ -1,10 +1,10 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
-import { StartView } from "./components/StartView.vue";
-import { PrepareView } from "./components/PrepareView.vue";
-import { ProcessView } from "./components/ProcessView.vue";
-import { CompleteView } from "./components/CompleteView.vue";
-import { ResultView } from "./components/ResultView.vue";
+import StartView from "./components/StartView.vue";
+import PrepareView from "./components/PrepareView.vue";
+import ProcessView from "./components/ProcessView.vue";
+import CompleteView from "./components/CompleteView.vue";
+import ResultView from "./components/ResultView.vue";
 
 Vue.use(VueRouter);
 
